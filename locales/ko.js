@@ -220,7 +220,7 @@ const ko = {
     "UnsupportedBrowser": "이 브라우저에서는 즐겨찾기를 지원하지 않아요.",
     "resetShortcutsPrompt": "저장된 모든 바로가기가 삭제되고 기본값으로 초기화돼요. 계속할까요?",
     "invalidFileTypeMessage": "올바른 이미지 파일을 선택해 주십시오.",
-    "invalidSvgMessage": "입력 된 SVG 내용이 올바르지 않거나, 안전하지 않는 내용을 포함하고 있어 아이콘으로 사용 될 수 없습니다.",
+    "invalidSvgMessage": "입력 된 SVG 내용이 올바르지 않거나, 안전하지 않은 내용을 포함하고 있어 아이콘으로 사용 될 수 없습니다.",
     "invalidIconUrlMessage": "올바른 이미지 URL 을 입력해 주십시오. (https:// 또는 http://, data:image/ 으로 시작해야 합니다).",
     "iconFileTooLargeMessage": "선택 된 파일이 너무 큽니다: {size} KB. {max} KB 보다 작은 파일을 선택해 주십시오.",
     "iconStorageQuotaMessage": "저장공간 제한에 도달 하였기 때문에 아이콘이 저장될 수 없습니다. 몇개의 맞춤 아이콘을 제거하거나, 용량이 적은 이미지를 사용하십시오."
