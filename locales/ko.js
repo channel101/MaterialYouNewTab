@@ -169,7 +169,7 @@ const ko = {
     // Theme
     "lightThemed": "라이트",
     "darkThemed": "다크",
-    "systemThemed": "시스",
+    "systemThemed": "시스템",
 
 
     // Wallpaper and settings
