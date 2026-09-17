@@ -69,8 +69,7 @@ const ko = {
     // Search
     "micIconTitle": "마이크 아이콘 숨기기",
     "micIconInfo": "음성 입력이 안 될 때",
-    "aiModeIconTitle": "AI 모드 버튼 숨기기",
-    "aiModeIconInfo": "구글 AI 검색 버틐 숨기기",
+    "aiModeIconInfo": "구글 AI 검색 버튼 숨기기",
     "hideSearchWith": "검색 엔진 숨기기",
     "hideSearchWithInfo": "아이콘을 클릭해서 검색 엔진 바꾸기",
     "motivationalQuotesText": "동기부여 명언",
